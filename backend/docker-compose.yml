@@ -5,9 +5,9 @@ services:
     ports:
       - "8000:8000"
     environment:
-      LANGFLOW_API_KEY: "sk-sDFQtvFw8iKnFyaYdQ7vaHS2ZQXCxMiFwWlMnBtaWWc"  
+      LANGFLOW_API_KEY: <API_KEY>  
       LANGFLOW_URL: "http://host.docker.internal:7860"
-      LANGFLOW_FLOW_ID: "10a6fbf2-fee7-4b3b-92ed-f90b05ede4a9"
+      LANGFLOW_FLOW_ID: <FLOW_ID>
     volumes:
       - .:/app
     restart: unless-stopped
