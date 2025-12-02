@@ -1,0 +1,10 @@
+Troubleshooting Login Issues
+Common problems:
+1. Wrong password.
+2. Account locked after too many attempts.
+3. Invalid email format.
+
+Solutions:
+- Reset your password using the login page.
+- Check if your keyboard caps lock is enabled.
+- Contact support if you cannot recover your account.

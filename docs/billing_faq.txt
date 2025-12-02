@@ -1,0 +1,11 @@
+Billing FAQ
+How to update payment method:
+- Go to billing settings.
+- Select "Update payment method".
+
+Failed payment:
+- Check card expiration.
+- Contact your bank.
+
+Invoices:
+- All invoices are available in the billing history.

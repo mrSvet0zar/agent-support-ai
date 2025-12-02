@@ -1,0 +1,7 @@
+Feature Request Guidelines
+To submit a feature request:
+1. Describe the feature clearly.
+2. Explain the user benefits.
+3. Provide an example use case.
+
+Requests are reviewed monthly.

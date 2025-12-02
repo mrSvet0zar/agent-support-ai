@@ -1,0 +1,12 @@
+Error Codes Reference
+Error 403:
+- Access denied.
+- Check account permissions.
+
+Error 500:
+- Internal server error.
+- Try again later or contact support.
+
+Crash on startup:
+- Update the application.
+- Restart your device.

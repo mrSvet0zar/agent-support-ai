@@ -1,0 +1,10 @@
+Installation Guide
+System requirements:
+- Windows 10 or later.
+- 200 MB free disk space.
+- Internet connection.
+
+Steps:
+1. Download the installer.
+2. Double-click the installer.
+3. Follow the on-screen steps until completion.

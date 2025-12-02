@@ -1,0 +1,8 @@
+Security Policies
+Password rules:
+- Minimum 12 characters.
+- Include letters and numbers.
+
+Two factor authentication:
+- Available via email or SMS.
+- Can be enabled from the security settings menu.

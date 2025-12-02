@@ -1,0 +1,8 @@
+User Permissions Guide
+Roles:
+- Admin: full access.
+- Member: standard access.
+- Viewer: read-only access.
+
+To request a new role:
+- Contact your administrator.
