@@ -163,4 +163,9 @@ POST http://localhost:8000/agent/query
 - Intégration à un système de ticketing (Zendesk, n8n, Freshdesk, ...)  
 - Gestion de session multi-turn persistantes  
 - Tableau de bord admin + visualisation des logs  
-- Optimisation RAG (réecriture de requête, chunking dynamique, ...)  
+- Optimisation RAG (réecriture de requête, chunking dynamique, ...)
+
+## Auteur  
+**Milan Ganivet**  
+Data & AI Engineer  
+[LinkedIn](https://www.linkedin.com/in/milan-ganivet/)
